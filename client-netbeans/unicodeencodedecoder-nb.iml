@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="unicodeencodedecoder" />
+    <orderEntry type="library" name="Maven: org.netbeans.html:net.java.html:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.html:net.java.html.json:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.html:net.java.html.sound:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.html:net.java.html.boot:1.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.netbeans.html:net.java.html.boot.fx:1.3" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: com.oracle:javafx:2.2">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/ext/jfxrt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.netbeans.html:ko4j:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-htmlui:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-libs-javafx:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-modules:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-awt:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-annotations-common:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-dialogs:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-progress:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-progress-nb:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-filesystems:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-util-ui:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-util-lookup:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-windows:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-nodes:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:asm-all-5.0.1:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-bootstrap:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-libs-asm:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-startup-base:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-all:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:swing-layout-1.0.4:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-intent:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-queries:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-swing-outline:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-actions:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-explorer:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-filesystems-nb:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-io:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-loaders:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-text:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-startup:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-execution:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-windows:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-options-api:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-swing-tabcontrol:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-editor-mimelookup:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-libs-jna:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-libs-jna-platform:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-libs-osgi:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-keyring:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-filesystems-compat8:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-io:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-options-keymap:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-swing-plaf:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-sampler:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-spi-quicksearch:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-settings:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.main:4.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.framework:4.2.1" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jna:jna-platform:4.1.0" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jna:jna:4.1.0" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:osgi.core-5.0.0:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:osgi.cmpn-4.2:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:testng-6.8.1-dist:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-autoupdate-services:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-sendopts:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:updater:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-ui:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-libs-felix:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-autoupdate-cli:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-autoupdate-ui:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-favorites:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-masterfs:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-print:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: javax.help:javahelp:2.0.05" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-libs-junit4:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-keyring-fallback:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-core-netigso:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:org.eclipse.osgi_3.9.1.v20140110-1610:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-templates:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-lib-uihandler:RELEASE81" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-util:RELEASE81" level="project" />
+    <orderEntry type="module" module-name="unicodeencodedecoder-js" />
+  </component>
+</module>

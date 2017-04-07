@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="OsmorcControlled" manifestLocation="" jarfileLocation="unicodeencodedecoder-js-1.0-SNAPSHOT.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="og.javapro.netbeans.unicodeencodedecoder.js" bundleVersion="1.0.0.SNAPSHOT" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties>
+          <property key="Export-Package" value="og.javapro.netbeans.unicodeencodedecoder.js" />
+          <property key="Bundle-Name" value="unicodeencodedecoder JavaScript Libraries" />
+        </additionalProperties>
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.netbeans.html:net.java.html.boot:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.html:net.java.html:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.dukescript.api:junit-osgi:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.dukescript.api:junit-browser-runner:0.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apidesign.bck2brwsr:emul:rt:0.19" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apidesign.bck2brwsr:emul:bck2brwsr:0.19" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.netbeans.html:net.java.html.boot.script:1.3" level="project" />
+  </component>
+</module>

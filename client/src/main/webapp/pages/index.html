@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Decoded/Original:</h1>
+        <textarea data-bind="value:decoded, valueUpdate: 'input', event: {keyup: encode}">
+        </textarea>
+        <br>
+        <button data-bind="click: $root.encode">Encode</button>
+        <span data-bind="text: encoded"></span>
+
+
+        <h1>Encoded:</h1>
+        <textarea data-bind="value:encoded, valueUpdate: 'input', event: {keyup: decode}">
+        </textarea>
+        <br>
+        <button data-bind="click: $root.decode">Decode</button>
+        <span data-bind="text: decoded"></span>
+
+        <!-- ${browser.bootstrap} -->
+    </body>
+</html>

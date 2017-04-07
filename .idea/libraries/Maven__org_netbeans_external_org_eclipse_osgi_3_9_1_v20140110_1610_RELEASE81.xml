@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans.external:org.eclipse.osgi_3.9.1.v20140110-1610:RELEASE81">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/org.eclipse.osgi_3.9.1.v20140110-1610/RELEASE81/org.eclipse.osgi_3.9.1.v20140110-1610-RELEASE81.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/org.eclipse.osgi_3.9.1.v20140110-1610/RELEASE81/org.eclipse.osgi_3.9.1.v20140110-1610-RELEASE81-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/org.eclipse.osgi_3.9.1.v20140110-1610/RELEASE81/org.eclipse.osgi_3.9.1.v20140110-1610-RELEASE81-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

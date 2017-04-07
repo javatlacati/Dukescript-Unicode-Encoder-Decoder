@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/unicodeencodedecoder.iml" filepath="$PROJECT_DIR$/client/unicodeencodedecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-android/unicodeencodedecoder-android.iml" filepath="$PROJECT_DIR$/client-android/unicodeencodedecoder-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/js/unicodeencodedecoder-js.iml" filepath="$PROJECT_DIR$/js/unicodeencodedecoder-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-netbeans/unicodeencodedecoder-nb.iml" filepath="$PROJECT_DIR$/client-netbeans/unicodeencodedecoder-nb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unicodeencodedecoder-pom.iml" filepath="$PROJECT_DIR$/unicodeencodedecoder-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-web/unicodeencodedecoder-web.iml" filepath="$PROJECT_DIR$/client-web/unicodeencodedecoder-web.iml" />
+    </modules>
+  </component>
+</project>
